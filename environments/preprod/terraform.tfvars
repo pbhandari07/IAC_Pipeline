@@ -7,7 +7,7 @@ rgs = {
     name     = "rg-chor-dev-2"
     location = "centralindia"
 }
- rg2 = {
+ rg3 = {
     name     = "rg-chor-prod-3"
     location = "centralindia"
 }
